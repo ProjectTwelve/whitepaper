@@ -1,5 +1,5 @@
 
-<div align='center'><font size='6px'><b>Privacy Policy</b></font></div>
+<h1 align='center'>Privacy Policy</h1>
 
 - [Information Collection and Use](#information-collection-and-use)
 - [Cookies and Similar Technologies](#cookies-and-similar-technologies)
