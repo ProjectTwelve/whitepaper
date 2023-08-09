@@ -10,7 +10,7 @@ Please read and review the Terms of Service (**"Agreement"**), together with ou
 (c) that unless otherwise stated herein and to the extent allowed by law, all purchases are non-refundable.</b> 
 
 Besides, you must be and hereby affirm that you are **an adult of the legal age of majority** in your region/country of residence. If you are under the legal age of majority, your parent or legal guardian must consent to this Agreement.<br>
-\
+
 Please note that if you are accessing third-party contents that are hosted or displayed on our Services, additional terms and conditions for such third-party contents may also apply. We recommend that you refer to the terms and conditions for such third-party contents in addition to these terms.<br>
 
 Arbitration Notice For Users In The United States: Section 14 contains a binding arbitration clause and class action waiver that affect your legal rights.<br>

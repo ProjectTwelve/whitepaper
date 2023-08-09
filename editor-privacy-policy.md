@@ -1,6 +1,12 @@
-
 <h1 align='center'>Privacy Policy</h1>
 
+Thank you for using PLANET TWELVE PRIVATE LIMITED (hereinafter referred to as "us", "our", or "we") products and services! We respect privacy rights of the users who use Project Twelve application provided through mobile devices, PC, official website and other authorized platform, and/or otherwise using or accessing any of the services we provide including but not limited to customer service, marketing, advertising and community services ("our service").
+
+This Privacy Policy explains why and how we collect, restore, and process your personal information and which rights you have over your personal information. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. If you do not agree with our policies and practices, do not download, register with, or use our products or service. 
+
+If you have any questions regarding our privacy policy or our data protection practices, please contact us as described in the [Contact Us](#contact-us) section.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Project Twelve unless otherwise defined in this Privacy Policy.
 - [Information Collection and Use](#information-collection-and-use)
 - [Cookies and Similar Technologies](#cookies-and-similar-technologies)
 - [Information Share](#information-share)
@@ -12,14 +18,6 @@
 - [Update of the Policy](#update-of-the-policy)
 - [Contact Us](#contact-us)
 
-Thank you for using PLANET TWELVE PRIVATE LIMITED (hereinafter referred to as "us", "our", or "we") products and services! We respect privacy rights of the users who use Project Twelve application provided through mobile devices, PC, official website and other authorized platform, and/or otherwise using or accessing any of the services we provide including but not limited to customer service, marketing, advertising and community services ("our service").
-
-This Privacy Policy explains why and how we collect, restore, and process your personal information and which rights you have over your personal information. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. If you do not agree with our policies and practices, do not download, register with, or use our products or service. 
-
-If you have any questions regarding our privacy policy or our data protection practices, please contact us as described in the "Contact Us" section.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Project Twelve unless otherwise defined in this Privacy Policy.
-
 #### <u>Information Collection and Use</u>
 
 For the purpose of this Privacy Policy, “Personal Information” means any information relating to an identified or identifiable individual. We obtain Personal Information relating to you from various sources described below.
@@ -28,7 +26,7 @@ Where applicable, we indicate whether and why you must provide us with your Pers
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including
 
-* **Account Information**: We need to obtain and collect your third-party account information (nickname, avatar) from third parties (Playza).
+* **Account Information**: We need to obtain and collect your third-party account information (nickname, avatar) from third parties (GPark).
 * **Usage Details**: When you access and use the app, we may automatically collect certain details of your access to and use of the app, including traffic data, behavioral data, and the resources that you access and use on or through the app.
 * **Network information**: IP address, Network quality data, Network type, Network strength, Network speed.
 * **Application Information**: To ensure the security of the network and services, we will collect your application information (APK name, version, running time, progress name), account, device information (model, OS version, brand, CPU structure, ROOT status, unique identifier of the ROM, screen resolution, system running time, whether the emulator is running, installed APK information, Mac address, network type, name of the running application, SD card application list of file names in the cache directory and WIFI name).
@@ -39,7 +37,7 @@ The information that we request will be retained by us and used as described in 
 
 The app does use third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app
 
-* [Playza](https://playza.app/userprivacy/playza/privacy_policy_playza.html)
+* [GPark](https://gpark.io/userprivacy/gpark/privacy_policy.html)
 
 #### <u>Cookies and Similar Technologies</u>
 
