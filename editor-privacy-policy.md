@@ -103,4 +103,4 @@ This policy is effective as of 2022-12-12
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <a href>support@p12.dev</a>.
 
 
-Last Updated: December 12, 2022
+Last Updated: December 7, 2023
